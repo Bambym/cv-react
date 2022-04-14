@@ -1,0 +1,36 @@
+#tab{
+    display: flex;
+    background-color: #1EC0EB;
+    height: 50rem;
+    border: 3px solid black;
+    border-radius: 20px;
+    color: #1006D4;
+   
+}
+h2{
+    padding-top: 50px;
+    font-size: 3em;
+
+}
+#formation>h2{
+    font-weight: 700;
+}
+#experiences>h2{
+    font-weight: 700;
+}
+table{
+   margin:50px
+   
+}
+table,thead
+
+table>thead>tr>th{
+    padding: 10px;
+    
+    border-bottom: 1px solid black;
+}
+table>tbody>tr>td{
+    padding: 15px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}

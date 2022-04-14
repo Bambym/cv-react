@@ -1,0 +1,31 @@
+#header{
+    border:3px solid black ;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("../img/banniere.png");
+    background-size: cover;
+}
+.menu-ul{
+    height: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 6px;
+    margin: 0px;
+}
+.menu-ul>li{
+    list-style-type: none;
+    margin-top: 1.7rem;
+    font-size: 2.3vw;
+    font-size-adjust: 0.58;
+    transition: all 500ms ease-in-out ;
+    font-family: 'Exo 2', sans-serif;
+    
+}
+#header>a{
+    justify-content: flex-end;
+    padding-bottom: 20px;
+    color: white;
+
+}

@@ -1,0 +1,38 @@
+#competences{
+    background-color:#1EC0EB ;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 20px;
+    color: #1006D4;
+}
+#competences>h2{
+   padding-top: 20px; 
+   padding-bottom: 40px;
+   font-weight: 700;
+}
+
+.progress{
+    width: 80%;
+    
+}
+#progress{
+   display: flex;
+   justify-content: center;
+}
+#back{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#autres{
+    margin-bottom: 50px;
+}
+#front>h3{
+    font-weight: 600;
+    
+}
+#back>h3{
+    font-weight: 600;
+}
+#autres>h3{
+    font-weight: 600;
+}
